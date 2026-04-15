@@ -22,8 +22,7 @@ VanillaTilt.js: A library used to implement the 3D tilt effects.
 Bootstrap 5: Provides the foundational layout structure.
 
 Installation
-
-
+https://ayms-gl1tch.github.io/3D-Biometric-Interface/
 Open the HTML file in any modern web browser to view the interface.
 
 License
